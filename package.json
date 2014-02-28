@@ -1,7 +1,7 @@
 {
   "name": "grunt-contrib-bigot",
   "description": "Grunt plugin to automate Bigot template compilation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/FireZenk/grunt-contrib-bigot",
   "author": {
     "name": "FireZenk <firezenk@gmail.com>",
@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "bigot": "~0.2.0"
+    "bigot": "~0.3.0"
   }
 }

@@ -1,5 +1,5 @@
 <ul>
-{¡people}
-	<li>{name}, {age} {¡activities}<span>{sport} and {hobby}</span>{!activities}</li>
-{!people}
+{loop people}
+	<li>{name}, {age} {loop activities}<span>{sport} and {hobby}</span>{end activities}</li>
+{end people}
 </ul>
