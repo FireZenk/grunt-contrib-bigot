@@ -1,6 +1,7 @@
 # grunt-contrib-bigot
 
 > Grunt plugin to automate Bigot template compilation
+> About Bigot template engine: `https://github.com/FireZenk/bigot`
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
