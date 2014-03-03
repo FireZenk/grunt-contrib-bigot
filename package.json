@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "bigot": "~0.3.0"
+    "bigot": "~0.4.0"
   }
 }
